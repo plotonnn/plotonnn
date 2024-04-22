@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plotonnn
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing, i am single.
-- 📫 How to reach me: prefer not to show until succeded at coding.
+- 🌱 I’m currently learning python, c#, c++
+- 💞️ I’m not really looking to collaborate on anything, i plan to work mostly with my friend.
+- 📫 How to reach me: don't. For now, ofc.
