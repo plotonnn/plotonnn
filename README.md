@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @plotonnn
-- 👀 I’m interested in coding and gaming.
+- 👀 I’m interested in coding, gaming, musicmaking and writing.
 - 🌱 I’m currently learning python, c#, c++
 - 💞️ I’m not really looking to collaborate on anything, i plan to work mostly with my friend.
 - 📫 How to reach me: my discord! plotonnn_the_injusticed.
+- I actually have a site now. Check out plotonnn.neocities.org.
