@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning python, c#, c++
 - 💞️ I’m not really looking to collaborate on anything, i plan to work mostly with my friend.
-- 📫 How to reach me: don't. For now, ofc.
+- 📫 How to reach me: my discord! plotonnn_the_injusticed.
